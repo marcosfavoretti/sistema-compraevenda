@@ -1,0 +1,95 @@
+
+Numero=31.
+
+Bairro=Jardim Maria Paulinia.
+
+Cep=1.
+
+Cidade=Boituva.
+
+Estado=sp.
+
+Nome=Luis.
+
+Data de cadastro=Wed Nov 09 15:43:59 BRT 2022.
+
+Cpf=1.
+
+Quantidade de parcelas=5.
+-
+Numero=1.
+
+Bairro=Jardim São José.
+
+Cep=02969000.
+
+Cidade=São Paulo.
+
+Estado=sp.
+
+Nome=Willian.
+
+Data de cadastro=Wed Nov 09 15:49:05 BRT 2022.
+
+Cpf=2.
+
+Quantidade de parcelas=2.
+-
+Numero=9.
+
+Bairro=Jardim Europa.
+
+Cep=01446000.
+
+Cidade=São Paulo.
+
+Estado=sp.
+
+Nome=Jair.
+
+Data de cadastro=Wed Nov 09 15:50:04 BRT 2022.
+
+Cpf=3.
+
+Quantidade de parcelas=12.
+-
+Numero=28.
+
+Bairro=flora ville.
+
+Cep=1855091.
+
+Cidade=Boituva.
+
+Estado=sp.
+
+Nome=Marcos.
+
+Data de cadastro=Wed Nov 09 15:42:44 BRT 2022.
+
+CNPJ=4.
+
+Razao social=Marcos ltda.
+
+Prazo de pagamento em dias=10.
+-
+Numero=21.
+
+Bairro=Jardim Boa Vista.
+
+Cep=18123093.
+
+Cidade=Rio de Janeiro.
+
+Estado=rj.
+
+Nome=Renato.
+
+Data de cadastro=Wed Nov 09 15:47:19 BRT 2022.
+
+CNPJ=5.
+
+Razao social=Renato Ltda.
+
+Prazo de pagamento em dias=21.
+-

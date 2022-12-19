@@ -1,0 +1,55 @@
+
+Codigo=2_
+
+Descricao=controle_
+
+Nome=controle de ps4_
+
+Preco=200.0_
+-
+Codigo=3_
+
+Descricao=console_
+
+Nome=ps4_
+
+Preco=4600.0_
+-
+Codigo=5_
+
+Descricao=uva verde_
+
+Nome=uva_
+
+Preco=9.0_
+-
+Codigo=1_
+
+Descricao=Ovo_
+
+Nome=ovo caipira_
+
+Preco=1.0_
+
+Validade=Thu May 25 00:00:00 BRT 2000_
+-
+Codigo=6_
+
+Descricao=danone vigor cremoso_
+
+Nome=danone_
+
+Preco=3.0_
+
+Validade=Fri Feb 10 00:00:00 BRT 2023_
+-
+Codigo=4_
+
+Descricao=banana madura_
+
+Nome=Banana_
+
+Preco=4.02_
+
+Validade=Sat Oct 10 00:00:00 BRT 2020_
+-

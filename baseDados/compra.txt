@@ -1,0 +1,79 @@
+
+Identificador=1_
+
+Valor total=4618.0_
+
+Data=Wed Nov 09 16:11:41 BRT 2022_
+
+CNPJ ou CPF=1_
+
+Valor pago=1000.0_
+
+Data do pagamento=null_
+
+Nomes dos itens comprados [1]=2>uva_
+
+Nomes dos itens comprados [2]=1>ps4_
+-
+Identificador=2_
+
+Valor total=2.0_
+
+Data=Wed Nov 09 16:12:31 BRT 2022_
+
+CNPJ ou CPF=2_
+
+Valor pago=3.98_
+
+Data do pagamento=Wed Nov 09 16:12:31 BRT 2022_
+
+Nomes dos itens comprados [1]=2>ovo caipira_
+-
+Identificador=3_
+
+Valor total=23090.0_
+
+Data=Mon Nov 09 18:29:27 BRT 2020_
+
+CNPJ ou CPF=3_
+
+Valor pago=2000.0_
+
+Data do pagamento=null_
+
+Nomes dos itens comprados [1]=5>ps4_
+
+Nomes dos itens comprados [2]=10>uva_
+-
+Identificador=5_
+
+Valor total=415.06_
+
+Data=Wed Nov 09 18:41:16 BRT 2022_
+
+CNPJ ou CPF=5_
+
+Valor pago=415.6_
+
+Data do pagamento=Wed Nov 09 18:41:16 BRT 2022_
+
+Nomes dos itens comprados [1]=1>danone_
+
+Nomes dos itens comprados [2]=2>controle de ps4_
+
+Nomes dos itens comprados [3]=3>Banana_
+-
+Identificador=4_
+
+Valor total=90.0_
+
+Data=Wed Nov 09 18:43:57 BRT 2022_
+
+CNPJ ou CPF=4_
+
+Valor pago=99.9_
+
+Data do pagamento=Wed Nov 09 18:43:57 BRT 2022_
+
+Nomes dos itens comprados [1]=10>uva_
+-
